@@ -1,0 +1,34 @@
+{
+    "highlights": [
+		{
+			"startOffset": 4,
+			"endOffset": 19,
+			"color": "#DFF094",
+			"priority": 10
+		},
+		{
+			"startOffset": 17,
+			"endOffset": 30,
+			"color": "#E9E9E9",
+			"priority": 1
+		},
+		{
+			"startOffset": 37,
+			"endOffset": 54,
+			"color": "#C2E6FD",
+			"priority": 5
+		},
+		{
+			"startOffset": 40,
+			"endOffset": 47,
+			"color": "#E5F39E",
+			"priority": 2
+		},
+		{
+			"startOffset": 56,
+			"endOffset": 64,
+			"color": "#E5CC93",
+			"priority": 1
+		}
+	]
+}

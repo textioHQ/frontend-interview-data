@@ -1,0 +1,17 @@
+{
+  "name": "textio-interview-data",
+  "version": "1.0.0",
+  "description": "Data for Textio frontend interview problems",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
