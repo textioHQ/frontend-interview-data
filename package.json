@@ -1,5 +1,5 @@
 {
-  "name": "textio-interview-data",
+  "name": "@textio/frontend-interview-data",
   "version": "1.0.0",
   "description": "Data for Textio frontend interview problems",
   "main": "dist/index.js",
