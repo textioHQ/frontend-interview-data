@@ -1,0 +1,24 @@
+{
+    "dynamicHighlights": [
+		{
+            "phrases": ["will deliver new"],
+			"color": "#DFF094",
+			"priority": 10
+		},
+		{
+            "phrases": ["adorable", "new technology"],
+			"color": "#E9E9E9",
+			"priority": 2
+		},
+		{
+            "phrases": ["an adorable puppy"],
+			"color": "#C2E6FD",
+			"priority": 5
+		},
+		{
+            "phrases": ["Perfect!"],
+			"color": "#E5CC93",
+			"priority": 1
+		}
+	]
+}
