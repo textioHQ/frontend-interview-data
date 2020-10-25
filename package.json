@@ -1,6 +1,6 @@
 {
   "name": "@textio/frontend-interview-data",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Data for Textio frontend interview problems",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
